@@ -1,5 +1,7 @@
 # Google Summer of Code 2022 - CNCF at Falco
 
+
+## Project is located here: https://rohith-raju.github.io/falco-playground/
 ## Project Title: Falco Playground: Web IDE for Security Rules with WebAssembly
 
 Falco provides an intuitive and highly expressive rule language for configuring its powerful runtime security engine. However, the community still lacks an official and frictionless IDE solution for writing and testing Falco rules.
@@ -20,9 +22,9 @@ A stretch goal would be to provide reusable groundwork for future integrations w
 
 ## Commits and Pull requests for this Project
 
-To compile falco libs to wasm: [Support build for wasm - Libs](https://github.com/falcosecurity/libs/pull/1156)
-To compile falco to wasm: [Suport build for wasm - Falco](https://github.com/falcosecurity/falco/pull/2663)
-You can find the commits for the playground here: [falco playground](https://github.com/Rohith-Raju/falco-playground/commits/master)
+1. To compile falco libs to wasm: [Support build for wasm - Libs](https://github.com/falcosecurity/libs/pull/1156)
+2. To compile falco to wasm: [Suport build for wasm - Falco](https://github.com/falcosecurity/falco/pull/2663)
+3. You can find the commits for the playground here: [falco playground](https://github.com/Rohith-Raju/falco-playground/commits/master)
 
 ## Falco Playground in Action
 
@@ -30,7 +32,6 @@ You can find the commits for the playground here: [falco playground](https://git
 
 ![falco playground](./images/error.png)
 
-![falco playground](./images/falco%20demo.gif)
 
 ## Addional Pull requests
 
