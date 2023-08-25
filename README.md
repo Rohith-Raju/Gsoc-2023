@@ -30,11 +30,11 @@ You can find the commits for the playground here: [falco playground](https://git
 
 ![falco playground](./images/error.png)
 
-![falco playground](./images/falco%20demo.mov)
+![falco playground](./images/falco%20demo.gif)
 
 ## Addional Pull requests
 
-[Support Memfd syscall](https://github.com/falcosecurity/libs/pull/1127)
-[Support pidfd_getfd Syscall](https://github.com/falcosecurity/libs/pull/1145)
-[Pidfd_open syscall](https://github.com/falcosecurity/libs/pull/1187)
-[Parsers for memfd](https://github.com/falcosecurity/libs/pull/1162)
+1. [Support Memfd syscall](https://github.com/falcosecurity/libs/pull/1127)
+2. [Support pidfd_getfd Syscall](https://github.com/falcosecurity/libs/pull/1145)
+3. [Pidfd_open syscall](https://github.com/falcosecurity/libs/pull/1187)
+4. [Parsers for memfd](https://github.com/falcosecurity/libs/pull/1162)
