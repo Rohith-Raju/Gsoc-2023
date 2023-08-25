@@ -1,7 +1,7 @@
 # Google Summer of Code 2022 - CNCF at Falco
 
+## Project is hosted live here: https://rohith-raju.github.io/falco-playground/
 
-## Project is located here: https://rohith-raju.github.io/falco-playground/
 ## Project Title: Falco Playground: Web IDE for Security Rules with WebAssembly
 
 Falco provides an intuitive and highly expressive rule language for configuring its powerful runtime security engine. However, the community still lacks an official and frictionless IDE solution for writing and testing Falco rules.
@@ -24,7 +24,7 @@ A stretch goal would be to provide reusable groundwork for future integrations w
 
 1. To compile falco libs to wasm: [Support build for wasm - Libs](https://github.com/falcosecurity/libs/pull/1156)
 2. To compile falco to wasm: [Suport build for wasm - Falco](https://github.com/falcosecurity/falco/pull/2663)
-3. You can find the commits for the playground here: [falco playground](https://github.com/Rohith-Raju/falco-playground/commits/master)
+3. You can find the commits for the playground here: [Falco playground](https://github.com/Rohith-Raju/falco-playground/commits/master)
 
 ## Falco Playground in Action
 
@@ -39,3 +39,7 @@ A stretch goal would be to provide reusable groundwork for future integrations w
 2. [Support pidfd_getfd Syscall](https://github.com/falcosecurity/libs/pull/1145)
 3. [Pidfd_open syscall](https://github.com/falcosecurity/libs/pull/1187)
 4. [Parsers for memfd](https://github.com/falcosecurity/libs/pull/1162)
+
+## Conclutions
+
+I had the pleasure of working on a project for Google Summer of Code (GSoC) with my mentor, @jasondellaluce who relentlessly extended his helping hand whenever in need. It was a fantastic experience from start to finish, and I'm grateful to all the members who made this my best summer yet.
