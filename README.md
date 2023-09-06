@@ -1,6 +1,6 @@
 # Google Summer of Code 2022 - CNCF at Falco
 
-## Project is hosted live here: https://rohith-raju.github.io/falco-playground/
+## Project is hosted live here: https://github.com/falcosecurity/falco-playground
 
 ## Project Title: Falco Playground: Web IDE for Security Rules with WebAssembly
 
