@@ -24,7 +24,7 @@ A stretch goal would be to provide reusable groundwork for future integrations w
 
 1. To compile falco libs to wasm: [Support build for wasm - Libs](https://github.com/falcosecurity/libs/pull/1156)
 2. To compile falco to wasm: [Suport build for wasm - Falco](https://github.com/falcosecurity/falco/pull/2663)
-3. You can find the commits for the playground here: [Falco playground](https://github.com/Rohith-Raju/falco-playground/commits/main?author=Rohith-Raju)
+3. You can find the commits for the playground here: [Falco playground](https://github.com/falcosecurity/falco-playground/commits/main?author=Rohith-Raju)
 
 ## Falco Playground in Action
 
