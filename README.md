@@ -1,4 +1,4 @@
-# Google Summer of Code 2022 - CNCF at Falco
+# Google Summer of Code 2023 - CNCF at Falco
 
 ## Project repo can be found here: https://github.com/falcosecurity/falco-playground
 
