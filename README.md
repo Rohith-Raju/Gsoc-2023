@@ -40,6 +40,6 @@ A stretch goal would be to provide reusable groundwork for future integrations w
 3. [Pidfd_open syscall](https://github.com/falcosecurity/libs/pull/1187)
 4. [Parsers for memfd](https://github.com/falcosecurity/libs/pull/1162)
 
-## Conclutions
+## Conclusions
 
 I had the pleasure of working on a project for Google Summer of Code (GSoC) with my mentor, @jasondellaluce who relentlessly extended his helping hand whenever in need. It was a fantastic experience from start to finish, and I'm grateful to all the members who made this my best summer yet.
